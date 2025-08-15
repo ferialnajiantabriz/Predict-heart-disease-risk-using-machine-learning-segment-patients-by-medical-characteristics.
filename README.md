@@ -69,8 +69,6 @@ heart-disease-prediction/
 └── README.md # This file
 
 
-## 📷 Screenshots
-(Add your figures: ROC curve, UI screenshot, pair plots, etc.)
 
 ## 📚 References
 - Almustafa (2020)
