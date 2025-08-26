@@ -3,7 +3,7 @@
 ## Overview
 This project presents a comprehensive heart disease risk prediction and patient segmentation system using machine learning and clustering techniques. It is designed to assist healthcare providers in diagnosing heart disease and understanding patient patterns through a user-friendly interface and insightful visualizations.
 
-##Objectives
+## Objectives
 - Predict heart disease risk using machine learning models: Decision Tree, Logistic Regression, and k-Nearest Neighbors (k-NN).
 - Segment patients into distinct risk groups using K-Means clustering.
 - Provide an intuitive GUI for data input and visualization using Streamlit.
